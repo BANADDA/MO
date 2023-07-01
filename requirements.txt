@@ -3,4 +3,4 @@ djangorestframework==3.14.0
 keras
 numpy
 Pillow
-tensorflow
+tensorflow-cpu
