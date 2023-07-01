@@ -1,6 +1,6 @@
 Django==4.1.2
 djangorestframework==3.14.0
 keras
-numpy==1.25.0
+numpy
 Pillow
 tensorflow
