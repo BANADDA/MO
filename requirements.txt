@@ -5,3 +5,7 @@ numpy
 Pillow
 tensorflow-cpu
 coreapi
+gunicorn 
+whitenoise 
+dj-database-url 
+psycopg2
